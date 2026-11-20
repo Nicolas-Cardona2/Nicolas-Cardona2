@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/INGENIERIA%20DE%20SISTEMAS-NIVEL%205-c0392b?style=for-the-badge&labelColor=1b1035" />
   <img src="https://img.shields.io/badge/STATUS-APRENDIENDO-b79cf0?style=for-the-badge&labelColor=1b1035" />
-  <img src="https://img.shields.io/badge/HP-9999-2ecc71?style=for-the-badge&labelColor=1b1035" />
 </p>
 
 <p align="center"> ──────────  ────────── </p>
