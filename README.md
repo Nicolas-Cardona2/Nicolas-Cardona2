@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/STATUS-APRENDIENDO-fce856?style=for-the-badge&labelColor=800415" />
 </p>
 
-<p align="center"> ──────────  ────────── </p>
+<p align="center">────────────────────</p>
 
 ## Sobre mí
 
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/C++-1b1035?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-1b1035?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/RACKET-1b1035?style=for-the-badge&logo=racket&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCALA-1b1035?style=for-the-badge&logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-1b1035?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -32,6 +33,7 @@
 | ☕ **Java** | `████████` | 80% |
 | 🐍 **Python** | `████████` | 80% |
 | ⚙️ **C++** | `██████` | 60% |
+| 🔴 **Scala** | `███` | 30% |
 | 🟣 **C#** | `███` | 30% |
 | 🧪 **Racket** | `███` | 30% |
 | 🎨 **Dibujo** | `███████` | 70% |
@@ -54,4 +56,4 @@
   </picture>
 </p>
 
-<p align="center"><i>"Jackpot" </i></p>
+<p align="center"><i>"Jackpot"</i></p>
