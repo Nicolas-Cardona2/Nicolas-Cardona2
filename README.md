@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/HP-9999-2ecc71?style=for-the-badge&labelColor=1b1035" />
 </p>
 
-<p align="center">⏳ ────────── ⏳ ────────── ⏳</p>
+<p align="center"> ──────────  ────────── </p>
 
 ## Sobre mí
 
