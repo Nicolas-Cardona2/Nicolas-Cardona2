@@ -1,7 +1,7 @@
 <h1 align="center">NICOLÁS CARDONA GARCÍA</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/INGENIERIA%20DE%20SISTEMAS-NIVEL%205-c0392b?style=for-the-badge&labelColor=1b1035" />
+  <img src="https://img.shields.io/badge/INGENIERIA%20DE%20SISTEMAS-NIVEL%205-c0392b?style=for-the-badge&labelColor=8c0000" />
   <img src="https://img.shields.io/badge/STATUS-APRENDIENDO-b79cf0?style=for-the-badge&labelColor=1b1035" />
 </p>
 
