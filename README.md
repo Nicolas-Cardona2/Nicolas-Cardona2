@@ -54,4 +54,4 @@
   </picture>
 </p>
 
-<p align="center"><i>"Aún me falta mucho por aprender, y eso es lo divertido." 🚀</i></p>
+<p align="center"><i>"Jackpot" </i></p>
