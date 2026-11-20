@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">NICOLÁS CARDONA GARCÍA</h1>
 
-<!--
-**Nicolas-Cardona2/Nicolas-Cardona2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/INGENIERIA%20DE%20SISTEMAS-NIVEL%205-c0392b?style=for-the-badge&labelColor=1b1035" />
+  <img src="https://img.shields.io/badge/STATUS-APRENDIENDO-b79cf0?style=for-the-badge&labelColor=1b1035" />
+  <img src="https://img.shields.io/badge/HP-9999-2ecc71?style=for-the-badge&labelColor=1b1035" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">⏳ ────────── ⏳ ────────── ⏳</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Estudiante de **Ingeniería de Sistemas** (5to semestre)
+- Me encanta programar, aunque aún me falta mucho por aprender
+- Cuando no estoy programando, estoy dibujando
+- nicolas.cardona.garcia@correounivalle.edu.co
+
+## Mi arsenal
+
+<p>
+  <img src="https://img.shields.io/badge/JAVA-1b1035?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-1b1035?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1b1035?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-1b1035?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/RACKET-1b1035?style=for-the-badge&logo=racket&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-1b1035?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## Lenguajes que manejo
+
+| Lenguaje | Nivel | Porcentaje |
+|:--|:--|:--|
+| ☕ **Java** | `████████░░` | 80% |
+| 🐍 **Python** | `████████░░` | 80% |
+| ⚙️ **C++** | `██████░░░░` | 60% |
+| 🟣 **C#** | `███░░░░░░░` | 30% |
+| 🧪 **Racket** | `███░░░░░░░` | 30% |
+| 🎨 **Dibujo** | `███████░░░` | 70% |
+| 🧠 **Ganas de aprender** | `██████████` | 100% |
+
+## Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=false&bg_color=0d0a1f&title_color=b79cf0&text_color=ffffff&icon_color=e74c3c&border_color=6c4bb5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=false&bg_color=0d0a1f&title_color=b79cf0&text_color=ffffff&border_color=6c4bb5" />
+</p>
+
+## Mis contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
+    <img alt="Snake comiéndose mis contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center"><i>"Aún me falta mucho por aprender, y eso es lo divertido." 🚀</i></p>
