@@ -41,17 +41,17 @@
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=false&bg_color=0d0a1f&title_color=b79cf0&text_color=ffffff&icon_color=e74c3c&border_color=6c4bb5" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=false&bg_color=0d0a1f&title_color=b79cf0&text_color=ffffff&border_color=6c4bb5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Cardona2&show_icons=true&hide_border=false&bg_color=0d0a1f&title_color=b79cf0&text_color=ffffff&icon_color=e74c3c&border_color=6c4bb5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Cardona2&layout=compact&hide_border=false&bg_color=0d0a1f&title_color=b79cf0&text_color=ffffff&border_color=6c4bb5" />
 </p>
 
 ## Mis contribuciones
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg" />
-    <img alt="Snake comiéndose mis contribuciones" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-Cardona2/Nicolas-Cardona2/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-Cardona2/Nicolas-Cardona2/output/github-snake.svg" />
+    <img alt="Snake comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Nicolas-Cardona2/Nicolas-Cardona2/output/github-snake-dark.svg" />
   </picture>
 </p>
 
